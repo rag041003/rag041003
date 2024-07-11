@@ -3,8 +3,7 @@
 
 ## Hi there 👋,
 #### A passionate AI and machine learning enthusiast, I thrive on solving complex problems through innovative solutions. With experience in predictive modeling and deep learning applications, 
-#### I have a proven track record of enhancing user experiences and contributing to published research. My technical skills in C++, MySQL, and Python, combined with a strong academic background, 
-#### drive my commitment to continuous learning and collaboration.
+#### I have a proven track record of enhancing user experiences and contributing to published research. My technical skills in C++, MySQL, and Python, combined with a strong academic background, drive my commitment to continuous learning and collaboration.
 
 ## 🧐 About
 - 🏄‍ ML Enthusiast
